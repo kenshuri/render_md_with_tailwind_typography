@@ -1,8 +1,6 @@
 # Template of a Django project serving markdown files
 
-This code will set-up a Django Project with tailwindCSS and daisyUI. The auto-reload feature is also included. Additionally, it contains the necessary to serve easily markdown files.
-
-The code for this was vastly inspired from a stackoverflow answer on [How to use TailwindCSS with Django?](https://stackoverflow.com/questions/63392426/how-to-use-tailwindcss-with-django#63392427) and is the follow-up of [this github project](https://github.com/kenshuri/setup_django_tailwind_daisyui)
+Source code relative to my [blog post](https://kenshuri-blog.herokuapp.com/posts/002_render_md_with_tailwind_typography.md) about rendering md file in Django.
 
 ## Set-up the project
 
