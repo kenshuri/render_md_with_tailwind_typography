@@ -7,8 +7,8 @@ Source code relative to my [blog post](https://kenshuri-blog.herokuapp.com/posts
 To set-up the project from scratch, run the following commands in your terminal.
 
 ```shell
-git clone https://github.com/kenshuri/setup_django_tailwind_daisyui.git
-cd setup_django_tailwind_daisyui
+git clone https://github.com/kenshuri/render_md_with_tailwind_typography.git
+cd render_md_with_tailwind_typography
 python -m virtualenv venv
 pip install -r requirements.txt
 cd jstoolchains
@@ -23,14 +23,14 @@ To see your project in action, open 2 terminals.
 
 In the first terminal run:
 ```shell
-cd setup_django_tailwind_daisyui
+cd render_md_with_tailwind_typography
 cd jstoolchains
 npm run tailwind-watch
 ```
 
 In the second terminal run:
 ```
-cd setup_django_tailwind_daisyui
+cd render_md_with_tailwind_typography
 python manage.py runserver
 ```
 
