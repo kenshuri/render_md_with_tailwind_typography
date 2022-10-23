@@ -1,6 +1,6 @@
 # Template of a Django project serving markdown files
 
-Source code relative to my [blog post](https://kenshuri-blog.herokuapp.com/posts/002_render_md_with_tailwind_typography.md) about rendering md file in Django.
+Source code relative to my [blog post](https://blog.kenshuri.com/posts/002_render_md_with_tailwind_typography.md) about rendering md file in Django.
 
 ## Set-up the project
 
